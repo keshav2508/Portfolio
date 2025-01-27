@@ -3,7 +3,7 @@ This is a responsive website that is built using HTML5, CSS3, JavaScript and Boo
 
 ![GIF_Portfolio](https://user-images.githubusercontent.com/53968071/122628798-f7dd0280-d0d5-11eb-8a40-afa9e8d99384.gif)
 
-I have updated the portfolio and therefore this GIF might not be relevant. Click on the [link](https://harshil-gupta.github.io/Portfolio/) to see the latest version.
+I have updated the portfolio and therefore this GIF might not be relevant. Click on the [link](https://keshav2508.github.io/Portfolio/) to see the latest version.
 
 ## To - Do
 1. Add Experience Section
